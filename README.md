@@ -1,1 +1,1 @@
-A fast food chain nutrition fact page example.
+A fast food chain nutrition fact page to practice page layout design.
